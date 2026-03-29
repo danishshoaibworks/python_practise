@@ -1,3 +1,5 @@
+# Prime Number
+
 num = int(input("Enter number: "))
 if num > 1:
     for i in range(2, num):
